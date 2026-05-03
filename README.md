@@ -428,3 +428,5 @@ If you encounter issues:
 ---
 
 **Built with ❤️ using MERN Stack + Python ML**
+
+# Fake-News-Detection
