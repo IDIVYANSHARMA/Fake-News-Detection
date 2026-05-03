@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Scientists discover new species of butterfly in Amazon rainforest during research expedition",
+    "label": "REAL"
+  },
+  {
+    "text": "Breaking: Aliens land in New York City and demand pizza, say they've been monitoring Earth for years",
+    "label": "FAKE"
+  },
+  {
+    "text": "Local man wins state lottery after buying ticket with lucky numbers passed down from grandmother",
+    "label": "REAL"
+  },
+  {
+    "text": "Government announces free money for everyone starting tomorrow, no application needed",
+    "label": "FAKE"
+  },
+  {
+    "text": "New medical study shows regular exercise improves heart health and can increase longevity",
+    "label": "REAL"
+  },
+  {
+    "text": "Scientists confirm drinking coffee cures all diseases instantly, pharmaceutical companies hiding truth",
+    "label": "FAKE"
+  },
+  {
+    "text": "Stock market closes higher today as investors respond positively to economic indicators",
+    "label": "REAL"
+  },
+  {
+    "text": "World leaders secretly reptiles from outer space, shocking photos reveal the truth",
+    "label": "FAKE"
+  }
+]

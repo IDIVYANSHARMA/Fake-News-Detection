@@ -1,0 +1,25 @@
+# ML Service
+ml-service/__pycache__/
+ml-service/*.pyc
+ml-service/venv/
+ml-service/.env
+ml-service/fake_news_model.pkl
+ml-service/tfidf_vectorizer.pkl
+ml-service/dataset.json
+
+# Backend
+backend/node_modules/
+backend/.env
+backend/*.log
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.env.local
+
+# General
+.DS_Store
+*.log
+.vscode/
+.idea/
